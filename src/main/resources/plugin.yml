@@ -1,0 +1,5 @@
+name: LagFinder
+version: '${project.version}'
+main: de.artus.lagfinder.LagFinder
+api-version: 1.19
+authors: [Artus]
